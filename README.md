@@ -29,9 +29,9 @@ Welcome to my GitHub! I specialize in building scalable and high-performance app
 
 ## 🌐 **Connect with Me**
 
-- **LinkedIn:** [linkedin.com/in/sachreet-kaur](#)
+- **LinkedIn:** [[linkedin.com/in/sachreet-kaur]](https://www.linkedin.com/in/sachreet-kaur-485ba21b5/)(#)
 - **GitHub:** [github.com/sachreet-kaur](#)
-- **Email:** [sachreet@example.com](mailto:sachreet@example.com)
+- **Email:** [sachreetkaur113@gmail.com](mailto:sachreetkaur113@gmail.com)
 
 ---
 
